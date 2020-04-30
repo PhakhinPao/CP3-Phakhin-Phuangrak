@@ -1,11 +1,11 @@
 # for variable
-FE = 89
-GB = 87
-ICS = 86
-CP = 85
+FE = 89.0
+GB = 87.5
+ICS = 86.3
+CP = 85.7
 # for function
 print("--- Your Score ---")
-print("Foundation English : " + str(FE) + " คะแนน")
-print("General Business : " + str(GB) + " คะแนน")
-print("Introduction to Computer Systems : " + str(ICS) + " คะแนน")
-print("Computer Programming : " + str(CP) + " คะแนน")
+print("Foundation English :", FE, "คะแนน")
+print("General Business :", GB, "คะแนน")
+print("Introduction to Computer Systems :", ICS,  "คะแนน")
+print("Computer Programming :",  CP,  "คะแนน")
